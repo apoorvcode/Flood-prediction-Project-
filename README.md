@@ -31,7 +31,7 @@ Floods are among the most devastating natural disasters, often resulting in loss
 
 - Languages: Python  
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-- Models Used: Linear Regression, Polynomial Ridge Regression, Random Forest Regressor  
+- Models Used: Linear Regression, XGBRegressor, Random Forest Regressor  
 - Evaluation Metrics: R² Score  
 - Best Model: Random Forest Regressor (R² ≈ 0.94)
 
