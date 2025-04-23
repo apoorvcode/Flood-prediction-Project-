@@ -1,1 +1,1 @@
-# Flood-prediction-Project-
+# Flood-prediction-Project- This project develops a regression model to predict floods using a dataset of environmental, climatic, and other relevant factors, By leveraging machine learning algorithms, and the model aims to enhance decision-making in emergency management and resource allocation.
